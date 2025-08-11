@@ -1,3 +1,7 @@
+streamlit
+pandas
+plotly
+
 # Core dependencies
 tkinter
 ipaddress
@@ -17,3 +21,4 @@ pyinstaller>=4.0
 
 # Additional utilities
 psutil>=5.8.0  # For system monitoring
+
