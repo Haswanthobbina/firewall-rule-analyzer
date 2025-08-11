@@ -1,0 +1,19 @@
+# Core dependencies
+tkinter
+ipaddress
+plotly>=5.0.0
+
+# Email functionality
+smtplib
+
+# System monitoring
+subprocess
+
+# JSON handling
+json
+
+# Executable creation
+pyinstaller>=4.0
+
+# Additional utilities
+psutil>=5.8.0  # For system monitoring
